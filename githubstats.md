@@ -8,10 +8,14 @@ Este arquivo guarda os blocos principais usados no `README.md` do perfil. O proj
 
 ```md
 <p align="center">
-  <img src="https://img.shields.io/badge/IdeiaSpace-Educacao%20Espacial-111827?style=for-the-badge" alt="IdeiaSpace Educacao Espacial" />
+  <a href="https://IdeiaSpace.com">
+    <img src="https://img.shields.io/badge/IdeiaSpace-Educacao%20Espacial-111827?style=for-the-badge" alt="IdeiaSpace Educacao Espacial" />
+  </a>
   <img src="https://img.shields.io/badge/Foco-Space%20Tech-2f80ed?style=for-the-badge" alt="Foco em Space Tech" />
   <img src="https://img.shields.io/badge/Embarcados-ESP32%20%2B%20Arduino%20CLI-16a34a?style=for-the-badge" alt="ESP32 e Arduino CLI" />
-  <img src="https://img.shields.io/badge/Satelites-Monitoramento%20em%20tempo%20real-7c3aed?style=for-the-badge" alt="Monitoramento de satelites em tempo real" />
+  <a href="https://tleideiaspaceview.vercel.app">
+    <img src="https://img.shields.io/badge/Satelites-Monitoramento%20em%20tempo%20real-7c3aed?style=for-the-badge" alt="Monitoramento de satelites em tempo real" />
+  </a>
 </p>
 ```
 

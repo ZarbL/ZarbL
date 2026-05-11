@@ -5,10 +5,14 @@
 **Desenvolvedor na IdeiaSpace, criando plataformas para educação espacial, tecnologia embarcada e monitoramento de satélites.**
 
 <p>
-  <img src="https://img.shields.io/badge/IdeiaSpace-Educacao%20Espacial-111827?style=for-the-badge" alt="IdeiaSpace Educacao Espacial" />
+  <a href="https://IdeiaSpace.com">
+    <img src="https://img.shields.io/badge/IdeiaSpace-Educacao%20Espacial-111827?style=for-the-badge" alt="IdeiaSpace Educacao Espacial" />
+  </a>
   <img src="https://img.shields.io/badge/Foco-Space%20Tech-2f80ed?style=for-the-badge" alt="Foco em Space Tech" />
   <img src="https://img.shields.io/badge/Embarcados-ESP32%20%2B%20Arduino%20CLI-16a34a?style=for-the-badge" alt="ESP32 e Arduino CLI" />
-  <img src="https://img.shields.io/badge/Satelites-Monitoramento%20em%20tempo%20real-7c3aed?style=for-the-badge" alt="Monitoramento de satelites em tempo real" />
+  <a href="https://tleideiaspaceview.vercel.app">
+    <img src="https://img.shields.io/badge/Satelites-Monitoramento%20em%20tempo%20real-7c3aed?style=for-the-badge" alt="Monitoramento de satelites em tempo real" />
+  </a>
 </p>
 
 </div>
@@ -21,6 +25,18 @@ Trabalho criando produtos que aproximam estudantes de tecnologia, programação 
 - Desenvolvi uma plataforma para alunos programarem em blocos usando tecnologia embarcada com Arduino CLI e ESP32.
 - Também criei uma plataforma para acompanhar satélites em órbita e monitorar suas posições em tempo real.
 - Gosto de unir software, hardware, educação e visualização de dados para transformar ideias complexas em ferramentas acessíveis.
+
+## Cobrinha de commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake.svg" />
+  <img alt="Animacao da cobrinha comendo os commits de Luis Zarbielli" src="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ## Stack
 
@@ -99,18 +115,6 @@ Trabalho criando produtos que aproximam estudantes de tecnologia, programação 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ZarbL&theme=flat&no-frame=true&margin-w=8" alt="Troféus do perfil GitHub de Luis Zarbielli" />
-
-</div>
-
-## Cobrinha de commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake.svg" />
-  <img alt="Animacao da cobrinha comendo os commits de Luis Zarbielli" src="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
