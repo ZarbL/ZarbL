@@ -84,7 +84,7 @@ Troque `SEU_INSTAGRAM` e `SEU_ID_DO_DISCORD` pelos seus dados reais.
 </p>
 ```
 
-## Cobrinha de commits
+## commits
 
 O `README.md` usa os SVGs gerados pela action em `.github/workflows/snake.yml`. Depois de subir para o GitHub, rode a action manualmente em `Actions > Generate snake animation > Run workflow`.
 
