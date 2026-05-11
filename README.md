@@ -26,7 +26,7 @@ Trabalho criando produtos que aproximam estudantes de tecnologia, programação 
 - Também criei uma plataforma para acompanhar satélites em órbita e monitorar suas posições em tempo real.
 - Gosto de unir software, hardware, educação e visualização de dados para transformar ideias complexas em ferramentas acessíveis.
 
-## Cobrinha de commits
+## Commits
 
 <div align="center">
 
