@@ -2,24 +2,25 @@
 
 # Luis Zarbielli
 
-**Desenvolvedor em construção constante, criando interfaces, automações e experiências digitais.**
+**Desenvolvedor na IdeiaSpace, criando plataformas para educação espacial, tecnologia embarcada e monitoramento de satélites.**
 
 <p>
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-2f80ed?style=for-the-badge" alt="Foco em Desenvolvimento Web" />
-  <img src="https://img.shields.io/badge/Perfil-Criativo%20e%20Tecnico-111827?style=for-the-badge" alt="Perfil criativo e tecnico" />
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-16a34a?style=for-the-badge" alt="Aprendendo sempre" />
+  <img src="https://img.shields.io/badge/IdeiaSpace-Educacao%20Espacial-111827?style=for-the-badge" alt="IdeiaSpace Educacao Espacial" />
+  <img src="https://img.shields.io/badge/Foco-Space%20Tech-2f80ed?style=for-the-badge" alt="Foco em Space Tech" />
+  <img src="https://img.shields.io/badge/Embarcados-ESP32%20%2B%20Arduino%20CLI-16a34a?style=for-the-badge" alt="ESP32 e Arduino CLI" />
+  <img src="https://img.shields.io/badge/Satelites-Monitoramento%20em%20tempo%20real-7c3aed?style=for-the-badge" alt="Monitoramento de satelites em tempo real" />
 </p>
 
 </div>
 
 ## Sobre mim
 
-Sou o Luis, um desenvolvedor interessado em transformar ideias em produtos digitais claros, bonitos e funcionais.
-Gosto de aprender construindo, testar ferramentas novas e criar projetos que misturam tecnologia, design e utilidade real.
+Sou o Luis, desenvolvedor na IdeiaSpace, empresa pioneira em educação espacial no Brasil.
+Trabalho criando produtos que aproximam estudantes de tecnologia, programação e ciência espacial com experiências práticas.
 
-- Atualmente estudando e praticando desenvolvimento web, automações e boas práticas de produto.
-- Buscando evoluir em projetos full stack, interfaces modernas e organização de código.
-- Aberto a colaborar em ideias criativas, aplicações web e projetos que ajudem pessoas.
+- Desenvolvi uma plataforma para alunos programarem em blocos usando tecnologia embarcada com Arduino CLI e ESP32.
+- Também criei uma plataforma para acompanhar satélites em órbita e monitorar suas posições em tempo real.
+- Gosto de unir software, hardware, educação e visualização de dados para transformar ideias complexas em ferramentas acessíveis.
 
 ## Stack
 
@@ -33,6 +34,16 @@ Gosto de aprender construindo, testar ferramentas novas e criar projetos que mis
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+</p>
+
+### Tecnologia embarcada e space tech
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino_CLI-00979d?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino CLI" />
+  <img src="https://img.shields.io/badge/ESP32-e7352c?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/IoT-0f766e?style=for-the-badge" alt="IoT" />
+  <img src="https://img.shields.io/badge/Satellite_Tracking-312e81?style=for-the-badge" alt="Satellite Tracking" />
 </p>
 
 ### Backend e dados
@@ -59,14 +70,14 @@ Gosto de aprender construindo, testar ferramentas novas e criar projetos que mis
 
 <div align="center">
 
-<a href="https://github.com/ZarbL">
-  <img src="https://img.shields.io/badge/GitHub-ZarbL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ZarbL" />
+<a href="https://www.instagram.com/luiszarbielli/">
+  <img src="https://img.shields.io/badge/Instagram-Contato-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://discord.com/users/SEU_ID_DO_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-Contato-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://www.linkedin.com/in/luis-zarbielli/">
   <img src="https://img.shields.io/badge/LinkedIn-Luis%20Zarbielli-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Luis Zarbielli" />
-</a>
-<a href="mailto:seu-email@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de contato" />
 </a>
 
 </div>
@@ -88,6 +99,18 @@ Gosto de aprender construindo, testar ferramentas novas e criar projetos que mis
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ZarbL&theme=flat&no-frame=true&margin-w=8" alt="Troféus do perfil GitHub de Luis Zarbielli" />
+
+</div>
+
+## Cobrinha de commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake.svg" />
+  <img alt="Animacao da cobrinha comendo os commits de Luis Zarbielli" src="https://raw.githubusercontent.com/ZarbL/ZarbL/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
